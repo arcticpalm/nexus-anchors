@@ -131,3 +131,5 @@
 {"anchored_at": "2026-11-06T03:30:09.399289+00:00", "asset": "ZEC", "chain_length": 18, "row_hash": "0b188b486faddb047622fe0678e75c04b183f2da09c74b3d1d15b7d47f787552", "seq": 18}
 {"anchored_at": "2026-11-07T03:30:08.830301+00:00", "asset": "BTC", "chain_length": 2096, "row_hash": "db456bcffeec62a2bfe6a999277ebfed244d7dd383c407a7a1cecfe74673123c", "seq": 2096}
 {"anchored_at": "2026-11-07T03:30:08.830301+00:00", "asset": "ZEC", "chain_length": 19, "row_hash": "fad5bdc3817bed1f92c2394dbcf456292ad3133e1862f99981e379994b4c34b0", "seq": 19}
+{"anchored_at": "2026-11-08T03:30:09.166766+00:00", "asset": "BTC", "chain_length": 2098, "row_hash": "ed56bc65c1c1ffc1672eb22a4bc412cab04fd8d6399f85e331684c2d996a34b1", "seq": 2098}
+{"anchored_at": "2026-11-08T03:30:09.166766+00:00", "asset": "ZEC", "chain_length": 25, "row_hash": "5bf13e8b44d463b184c95590f957c9161e2b94fb24d4d844eac8e470bed24506", "seq": 25}
